@@ -1,6 +1,3 @@
-# JohnDoe
-A Responsive Free One Page Portfolio Website template
+# danpetruso.github.io
 
-
-
-
+Personal website if you want to learn more about me :)
