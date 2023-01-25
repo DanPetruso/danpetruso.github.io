@@ -41,7 +41,7 @@ a:hover,a:focus,a:active {
 p {
 	color:#8c9398;
 	word-spacing:1px;
-	line-height:25px;
+	line-height:20px;
 	font-size:24px;
 }
 h2 {
@@ -58,7 +58,7 @@ h2::after {
 	margin:20px auto;
 }
 h6 {
-	font-size:15px;
+	font-size:40px;
 	color:#8c8c8c;
 	text-transform:uppercase;
 	font-weight:bold;
@@ -130,8 +130,8 @@ h5 {
 	margin:1.67em 0;
 }
 h6 {
-	font-size: 16px;
-	margin:2.33em 0;
+	font-size: 20px;
+	margin: 0;
 }
 abbr[title] {
 	border-bottom:1px dotted;
